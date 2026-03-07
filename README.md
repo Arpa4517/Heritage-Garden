@@ -1,17 +1,18 @@
-#Heritage Garden
-This project was built for the Software Engineering course. This project was build to explore innovative ways to enhance communication and address daily household challenges within a community, whether it's a small society or a large building with numerous flats.
+# Heritage Garden
 
-Key Features:
+This project was built for the Software Engineering course. It was developed to explore innovative ways to enhance communication and address daily household challenges within a community, whether it's a small society or a large building with numerous flats.
 
-Enhanced Community Communication: Facilitates effective communication among residents through various channels.
-Efficient Issue Resolution: Streamlines the process of reporting and resolving common household issues.
+## Key Features
 
-My Contributions:
+- **Enhanced Community Communication:** Facilitates effective communication among residents through various channels.
+- **Efficient Issue Resolution:** Streamlines the process of reporting and resolving common household issues.
 
-I mainly worked on the frontend part of this project, utilizing React, JavaScript, HTML and CSS to build an interactive user interface. 
+## My Contributions
 
-Tech Stack:
+I mainly worked on the frontend part of this project, utilizing React.js, JavaScript, HTML, and CSS to build an interactive user interface.
 
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB# Heritage-Garden
+## Tech Stack
+
+**Frontend:** React.js  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB
